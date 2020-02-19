@@ -33,7 +33,7 @@ Neste módulo foi aprendido conceitos e features sobre Node.js:
     - [x] GET
     - [x] POST
     - [x] PUT
-    - [x] DELETE**
+    - [x] DELETE
 
 ## 🚀 Instalação e execução
 
